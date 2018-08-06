@@ -1,0 +1,2 @@
+# partialApply
+partialAppy
